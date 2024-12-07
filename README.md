@@ -36,7 +36,7 @@ Visualizations were created to understand the relationship between H1N1 vaccinat
 Key insights were derived indicating that doctor recommendations and health insurance status significantly influence vaccination uptake.
 
 1.Doctor Recommendations
-![Alt text](docc_recomm_png)
+![Alt text](docc_reccom_png)
 
 2.Health Insuarance
 ![Alt text](Health.png)
