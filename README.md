@@ -1,12 +1,12 @@
 # Predicting H1N1 Vaccine Uptake
 
 ## Business Understanding
-Vaccination is one of humanity's most significant public health achievements, successfully eradicating or controlling numerous diseases. However, recent years have seen a troubling rise in vaccine skepticism, resulting in declining immunization rates and outbreaks of preventable diseases. Understanding the factors that contribute to vaccine hesitancy and predicting vaccination uptake is essential for public health officials and policymakers.
+-Vaccination is one of humanity's most significant public health achievements, successfully eradicating or controlling numerous diseases. However, recent years have seen a troubling rise in vaccine skepticism, resulting in declining immunization rates and outbreaks of preventable diseases. Understanding the factors that contribute to vaccine hesitancy and predicting vaccination uptake is essential for public health officials and policymakers.
 
-This project utilizes data from the National Flu Survey (NHFS 2009) to predict the likelihood of individuals receiving the H1N1 flu vaccine. By analyzing historical vaccination patterns, the study aims to provide insights into contemporary vaccination behaviors, particularly relevant in the context of emerging health crises such as the COVID-19 pandemic.
+-This project utilizes data from the National Flu Survey (NHFS 2009) to predict the likelihood of individuals receiving the H1N1 flu vaccine. By analyzing historical vaccination patterns, the study aims to provide insights into contemporary vaccination behaviors, particularly relevant in the context of emerging health crises such as the COVID-19 pandemic.
 
 ## Problem Statement
-Vaccine hesitancy presents a significant challenge to public health initiatives, leading to lower immunization rates and heightened susceptibility to infectious diseases. Identifying the factors that influence individuals' decisions regarding vaccine uptake is crucial for developing effective interventions and fostering community immunity. This project seeks to predict the likelihood of individuals receiving the H1N1 flu vaccine through machine learning techniques applied to the National Flu Survey (NHFS 2009) dataset.
+-Vaccine hesitancy presents a significant challenge to public health initiatives, leading to lower immunization rates and heightened susceptibility to infectious diseases. Identifying the factors that influence individuals' decisions regarding vaccine uptake is crucial for developing effective interventions and fostering community immunity. This project seeks to predict the likelihood of individuals receiving the H1N1 flu vaccine through machine learning techniques applied to the National Flu Survey (NHFS 2009) dataset.
 
 ### Objectives
 Prediction: Develop machine learning models to forecast individuals' H1N1 vaccine uptake based on demographic, socio-economic, and attitudinal factors.
@@ -36,7 +36,8 @@ Visualizations were created to understand the relationship between H1N1 vaccinat
 Key insights were derived indicating that doctor recommendations and health insurance status significantly influence vaccination uptake.
 
 1.Doctor Recommendations
-![Alt text](docc_reccom_png)
+![Alt text](doc.png)
+
 
 2.Health Insuarance
 ![Alt text](Health.png)
